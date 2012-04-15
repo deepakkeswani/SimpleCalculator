@@ -1,0 +1,18 @@
+
+Simple Calculator is very early stage of Calculator program.
+Objective is to learn iOS platform and make something useful.
+
+== Development Platform  ==
+* Xcode 4.3.2
+* iOS 5.1
+
+
+== Known Issues ==
+* Does not handle decimal places.
+* Limited to basic operations like plus, minus, multiply devide.
+* There is no Memory Store or Recall.
+* It is not designed to handle multiple orientation of device.
+
+== More Details ==
+* Step by Step guide can be found here : 
+** http://deepakkeswani.com/2012/02/writing-calculator-for-iphone-ios-in-xcode/
